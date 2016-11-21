@@ -1,9 +1,5 @@
 # hello-world
 First test repository
 # Adding some additional lines 
-one
-two
-three
-four
-five 
-six
+one, two, three
+four, five, six
