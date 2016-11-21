@@ -1,0 +1,65 @@
+/*
+
+sils downloads - oxygen xml editor
+
+sils lab (erw)
+fall 2008
+
+*/
+
+body {
+	font-family: arial, sans-serif;
+	margin: auto;
+	text-align: left;
+	font-size: 0.9em;
+}
+
+a, a:link {
+	color: #006699;
+}
+
+a:hover, a:link:hover {
+	text-decoration: none;
+	color: #666666;
+}
+
+a:visited, a:link:visited, a:hover {
+	color: #666666;
+}
+
+#container {
+	width: 700px;
+	text-align: left;
+	margin: 0 0 0 5%;
+	padding: 0;
+}
+
+
+	#header, #content, #footer {
+		width: 92%;
+		padding: 1% 4%;
+		margin: 0;
+	}
+	
+	#header {
+		font-size: 3em;
+		font-weight: bold;
+		color: #666666;
+		border-bottom: 1px solid #CCCCCC;
+	}
+
+		h1 {
+			color: #006699;
+		}
+
+		.intro {
+			width: 94%;
+			padding: 10px 3%;
+			background: #EEEEEE;
+		}
+	
+	#footer {
+		font-size: 0.7em;
+		background: #EEEEEE;
+		border-top: 1px solid #CCCCCC;
+	}
